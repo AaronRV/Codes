@@ -7,3 +7,5 @@
 6
 7
 8
+Gracias Joiss por enseñarme
+Leandro Kbro
