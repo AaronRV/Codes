@@ -8,10 +8,12 @@
 7
 8
 Los amo amigos
-``` js
-/* Hola soy Aaron 
+``` py
+"""Hola soy Aaron 
 Esta función hace suma y resta
-*/
-import React from 'react';
-import { HeroList } from '../heroes/HeroList';
+"""
+lista = ["a", "c", "b", "a", "c", "c", "a", "c"]
+resultado=contarElementosLista(lista) # {'a': 3, 'b': 1, 'c': 3}
+maximo=max(resultado, key=resultado.get)
+print("El valor mas repetido es el ",maximo," con ",resultado[maximo]," veces")
 ```
