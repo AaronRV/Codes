@@ -7,7 +7,11 @@
 6
 7
 8
-Gracias Joiss por enseñarme
-Leandro Kbro
-Gino se la come
-Veneco dame una jalada en tu moto
+Los amo amigos
+``` js
+/* Hola soy Aaron 
+Esta función hace suma y resta
+*/
+import React from 'react';
+import { HeroList } from '../heroes/HeroList';
+```
