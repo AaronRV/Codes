@@ -7,13 +7,23 @@
 6
 7
 8
-Los amo amigos
+Gracias amigos :)
 ``` py
-"""Hola soy Aaron 
-Esta función hace suma y resta
-"""
-lista = ["a", "c", "b", "a", "c", "c", "a", "c"]
-resultado=contarElementosLista(lista) # {'a': 3, 'b': 1, 'c': 3}
-maximo=max(resultado, key=resultado.get)
-print("El valor mas repetido es el ",maximo," con ",resultado[maximo]," veces")
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+#********List of elements in pyton*********** Se sa la Frase quiero mas cervezas para la banda
+def break_words(sentence):
+    words = sentence.split(" ")
+    return words
+ 
+oracion = input("\nIntroduce una oracion: ")
+palabras = break_words(oracion)
+ 
+print("\n\nSe imprime las variables antes de ser modificadas\n")
+print(oracion)
+print(palabras)
+ 
+#count retun the numers od elements with the especific value appear in the list
+cantidad = palabras.count("la")
+print("\nCantidad de veces que aparece 'la'en la lista: {}:", cantidad)
 ```
