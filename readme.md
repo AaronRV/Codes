@@ -7,7 +7,7 @@
 6
 7
 8
-Gracias amigos :)
+Gracias amigos por la enseñanza de hoy:)
 ``` py
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
